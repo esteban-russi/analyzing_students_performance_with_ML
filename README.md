@@ -1,8 +1,14 @@
-# students_performance
-En este proyecto se analizan datos académicos de estudiantes aplicando técnicas de clasificación supervisada y no supervisada. Se encuentra que existe relación entre la participación y la relación de los padres con la instituación con el desempeño académico del estudiante. 
+# Students_performance
+
+En este proyecto se analizan datos académicos de estudiantes aplicando técnicas de clasificación supervisada y no supervisada. Se encuentra que existe relación entre la participación y la relación de los padres con la institución con el desempeño académico del estudiante. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In this project, academic data from students is analyzed by applying supervised and unsupervised classification techniques. It is found that there is a relationship between the participation and the relationship of parents with the institution with the student's academic performance.
 
 
-El proceso que se sigue en el cuadernillo es el siguiente:
+Contenido del cuadernillo (Jupter Notebook):
+
 1. Importación de librearías
 2. Carga de datos
 3. Generación de datos faltantes (Se hace esto para aplicar técnicas de imputación más adelante)
